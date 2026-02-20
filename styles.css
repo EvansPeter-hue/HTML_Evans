@@ -1,9 +1,4 @@
-p{
-    border: 2PX solid powderblue;
-    padding: 70px;
-    margin: 30px;
-    text-align: center;
-}
+
 
 h2{
     text-align: center;
@@ -27,4 +22,8 @@ a:hover{
 
 body{
     margin-top: 30px;
+}
+
+table {
+  border-collapse: collapse;
 }
